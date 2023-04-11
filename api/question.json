@@ -1,0 +1,136 @@
+[
+    {
+        "question": " Q.1 What temperature does water boil at?",
+        "optionA": "a) 50 degrees Celcius",
+        "optionB": "b) 25 degrees Celcius",
+        "optionC": "c) 100 degrees Celcius",
+        "optionD": "d) 150 degrees Celcius",
+        "answer": "c) 100 degrees Celcius"
+    },
+
+    {
+        "question": " Q.2 Who wrote Julius Caesar, Macbeth and Hamlet?",
+        "optionA": "a) Wole Soyinka",
+        "optionB": "b) William Shakespeare",
+        "optionC": "c) Ngozi Chimamanda Adichie",
+        "optionD": "d) Dan Brown",
+        "answer": "b) William Shakespeare"
+    },
+
+    {
+        "question": " Q.3 What did the crocodile swallow in Peter Pan?",
+        "optionA": "a) A Book",
+        "optionB": "b) A Computer",
+        "optionC": "c) A pair of shoes",
+        "optionD": "d) Alarm Clock",
+        "answer": "d) Alarm Clock"
+    },
+
+    {
+        "question": " Q.4 Which is the only mammal that can’t jump?",
+        "optionA": "a) Dog",
+        "optionB": "b) Elephant",
+        "optionC": "c) Goat",
+        "optionD": "d) Lion",
+        "answer": "b) Elephant"
+    },
+
+    {
+        "question": "Q.5 Who lived at 221B, Baker Street, London?",
+        "optionA": "a) Tony Stark",
+        "optionB": "b) Morgan Freeman",
+        "optionC": "c) Sherlock Holmes",
+        "optionD": "d) Samuel L. Jackson",
+        "answer": "c) Sherlock Holmes"
+    },
+
+    {
+        "question": " Q.6 What colour is a panda?",
+        "optionA": "a) Green and Yellow",
+        "optionB": "b) Blue and Red",
+        "optionC": "c) Green and White",
+        "optionD": "d) Black and White",
+        "answer": "d) Black and White"
+    },
+
+    {
+        "question": " Q.7 Where is the smallest bone in the human body?",
+        "optionA": "a) The Chest",
+        "optionB": "b) The Ear",
+        "optionC": "c) The Legs",
+        "optionD": "d) The Hands",
+        "answer": "b) The Ear"
+    },
+
+    {
+        "question": " Q.8 What does the roman numeral C represent?",
+        "optionA": "a) 100",
+        "optionB": "b) 10",
+        "optionC": "c) 10,000",
+        "optionD": "d) 1,000,000",
+        "answer": "a) 100"
+    },
+
+    {
+        "question": " Q.9 What takes place in Hong Kong's Happy Valley?",
+        "optionA": "a) Chicken Wrestling",
+        "optionB": "b) Horse racing",
+        "optionC": "c) Street Racing",
+        "optionD": "d) Arm Wrestling",
+        "answer": "b) Horse racing"
+    },
+
+    {
+        "question": "Q.10 Who painted the Mona Lisa?",
+        "optionA": "a) Alexander Graham Bell",
+        "optionB": "b) Sir Isaac Newton",
+        "optionC": "c) Leonardo Da Vinci",
+        "optionD": "d) Albert Einstein",
+        "answer": "c) Leonardo Da Vinci"
+    },
+
+    {
+        "question": "Q.11 What’s the most important book in the Moslem religion?",
+        "optionA": "a) The Koran",
+        "optionB": "b) The Dictionary",
+        "optionC": "c) The Bible",
+        "optionD": "d) The Chemistry text Book",
+        "answer": "a) The Koran"
+    },
+
+    {
+        "question": "Q.12 What’s the capital of Ethiopia?",
+        "optionA": "a) Cape Town",
+        "optionB": "b) San Francisco",
+        "optionC": "c) Addis Ababa",
+        "optionD": "d) Syndey",
+        "answer": "c) Addis Ababa"
+    },
+
+    {
+        "question": "Q.13 How many squares are there on a chess board?",
+        "optionA": "a) 128",
+        "optionB": "b) 64",
+        "optionC": "c) 32",
+        "optionD": "d) 256",
+        "answer": "b) 64"
+    },
+
+    {
+        "question": "Q.14 Who invented the electric light bulb?",
+        "optionA": "a) Tom Cruise",
+        "optionB": "b) Barack Obama",
+        "optionC": "c) Wole Soyinka",
+        "optionD": "d) Thomas Edison",
+        "answer": "d) Thomas Edison"
+    },
+
+    {
+        "question": "Q.15 What are the first three words of the bible?",
+        "optionA": "a) be with everyone",
+        "optionB": "b) Again Jesus asked",
+        "optionC": "c) In the beginning",
+        "optionD": "d) At that time",
+        "answer": "c) In the beginning"
+    }
+]

@@ -1,0 +1,498 @@
+
+TOC
+
+Q.no 9. Turing machine was invented by
+A : Alan Turing
+B : Turing man
+C : Turing taring
+D : Turling Bake
+
+Show Answer
+Alan Turing
+
+Q.no 10. Construct a regular expression for the language that contains strings having at
+least one pair of consecutive zeros over {0, 1}.
+A : (100)*
+B : 1* (00)* 1*
+C : [ (1 + 0 )* (00) (1 + 0 )] +
+D : ((0+1)(0+1))
+
+Show Answer
+[ (1 + 0 )* (00) (1 + 0 )] +
+
+Q.no 11. Why Palindromes cannot be recognized by any FSM ?
+A : an FSM cannot deterministically fix the mid-point
+B : an FSM can remember arbitrarily large amount of information
+C : FSM has finite memory
+D : FSM has only 5 tuples
+
+Show Answer
+an FSM cannot deterministically fix the mid-point
+
+Q.no 12. is the class of decision problems that can be solved by nondeterministic polynomial algorithms?
+A : NP
+B : P
+C : Hard
+D : Complete
+
+Show Answer
+NP
+
+Q.no 13. NPDA stands for
+A : non deterministic pushup automata
+B : null pushdown automata
+C : nested pushdown automata
+D : non deterministic pushdown automata
+
+Show Answer
+non deterministic pushdown automata
+
+Q.no 14. A Turing machine with several tapes in known as
+A : Multi-tape Turing machine
+B : Poly-tape Turing maching
+C : Universal Turing machine
+D : Complete Turing machine
+
+Show Answer
+Multi-tape Turing machine
+
+Q.no 15. If P, Q, R are three regular expressions and if P does not contain epsilon, then
+the equation R = Q + RP has a unique solution given by
+A : R = QP*
+B : R = PQ
+C : R = RP
+D : R = QP
+
+Show Answer
+R = QP*
+
+
+DATABASE MANAGEMENT
+Question: 1 A collection of interrelated records is called a
+
+(A) Database
+
+(B) Spreadsheet
+
+(C) Management information system
+
+(D) Text file
+
+Ans: A
+Database
+
+Question: 2 The method of file organization in which data records in a file are arranged in a specified order according to key field is known as the
+
+(A) Sequential access method
+
+(B) Queuing method
+
+(C) Predetermined method
+
+(D) Direct access method
+
+Ans: A
+Sequential access method
+
+Question: 3 Unlike filters queries can be saved as in a database.
+
+(A) Database
+
+(B) Filters
+
+(C) Objects
+
+(D) Any of the above
+
+Ans: C
+Objects
+
+Question: 4 External database is
+
+(A) Database created using DBMS package
+
+(B) Database created in MS-Word
+
+(C) Database created in EXCEL
+
+(D) All of the above
+
+Ans: A
+Database created using DBMS package
+
+Question: 5 ROLLBACK in a database is ____ statement.
+
+(A) DDL
+
+(B) DML
+
+(C) DCL
+
+(D) TCL
+
+Ans: D
+TCL
+
+Question: 6
+
+Report generators are used to
+
+(A) Store data input by a user
+
+(B) Retrieve information from files
+
+(C) Answer queries
+
+(D) Both (b) and (c)
+
+Ans: D
+
+Both (b) and (c)
+
+Question: 7
+
+The logical data structure with a one-to-many relationship is a
+
+(A) Tree
+
+(B) Chain
+
+(C) Network
+
+(D) All of these
+
+Ans: A
+
+Tree
+
+Question: 8
+
+In a database, related fields are grouped to
+
+(A) File
+
+(B) Bank
+
+(C) Menu
+
+(D) Data record
+
+Ans: D
+
+Data record
+
+Question: 9
+
+The database environment has all the following components except
+
+(A) Database administrator
+
+(B) Database
+
+(C) Users
+
+(D) Separate files
+
+Ans: D
+
+Separate files
+
+Question: 10
+
+Which database handles full text data, image, audio and video?
+
+(A) Multimedia database
+
+(B) Video on demand database
+
+(C) Graphics database
+
+(D) Transaction database
+
+Ans: A
+
+Multimedia database
+
+Question: 11
+
+Collecting personal information and effectively posing as another individual is known as the crime of _____
+
+(A) Spooling
+
+(B) Identity theft
+
+(C) Hacking
+
+(D) Spoofing
+
+Ans: D
+
+Spoofing
+
+Question: 12
+
+A DBMS that combines a DBMS and an application generator is ____
+
+(A) Oracle Corporation’s Oracle
+
+(B) Microsoft’s SQL Server
+
+(C) Microsoft’s Access
+
+(D) None of these
+
+Ans: C
+
+Microsoft’s Access
+
+Question: 13
+
+E.F. Codd represented _____ rules that a database must obey if it has to be considered truly relational.
+
+(A) 6
+
+(B) 8
+
+(C) 10
+
+(D) 12
+
+Ans: D
+
+12
+
+Question:14
+
+The ability to find an individual item in a file immediately
+
+(A) Sequential access
+
+(B) File allocation table
+
+(C) Directory
+
+(D) Direct access
+
+Ans: D
+
+Direct access
+
+Question: 15
+
+A prescribed set of well- defined instructions for solving mathematical problems is called ____
+
+(A) An algorithm
+
+(B) A description
+
+(C) A code
+
+(D) A compiler
+
+Ans: A
+
+An algorithm
+
+DATA STRUCTURE AND ALGORITHM
+Q 1 - Which of the following usees FIFO method
+
+A - Queue
+
+B - Stack
+
+C - Hash Table
+
+D - Binary Search Tree
+
+Answer : A
+Explanation
+Queue maintains two pointers − front and rear. In queue data structure, the item inserted first will always be removed first, hence FIFO!
+
+Q 2 - Maximum number of nodes in a binary tree with height k, where root is height 0, is
+
+A - 2k − 1
+
+B - 2k+1 − 1
+
+C - 2k-1 + 1
+
+D - 2k − 1
+
+Answer : B
+Explanation
+If the root node is at height 0, then a binary tree can have at max 2k+1 − 1 nodes.
+
+For example: a binary tree of height 1, can have maximum 21+1 − 1 = 3 nodes.
+
+   r    --------- 0
+  / \
+ L   R  --------- 1
+Q 3 - Find the odd out
+
+A - Prim's Minimal Spanning Tree Algorithm
+
+B - Kruskal's Minimal Spanning Tree Algorithm
+
+C - Floyd-Warshall's All pair shortest path Algorithm
+
+D - Dijkstra's Minimal Spanning Tree Algorithm
+
+Answer : C
+Explanation
+Floyd-Warshall's All pair shortest path Algorithm uses dynamic programming approach. All other mentioned algorithms use greedy programming approach
+
+Q 4 - What is not true about insertion sort?
+
+A - Exhibits the worst case performance when the initial array is sorted in reverse order.
+
+B - Worst case and average case performance is Ο(n2)
+
+C - Can be compared to the way a card player arranges his card from a card deck.
+
+D - None of the above!
+
+Answer : D
+Explanation
+All given options are true about insertion sort.
+
+Q 5 - Apriory algorithm analysis does not include −
+
+A - Time Complexity
+
+B - Space Complexity
+
+C - Program Complexity
+
+D - None of the above!
+
+Answer : C
+Explanation
+Algorithms are independent of programming languages, hence, program complexity is not a part of algorithm analysis.
+
+Q 6 - Time required to merge two sorted lists of size m and n, is
+
+A - Ο(m | n)
+
+B - Ο(m + n)
+
+C - Ο(m log n)
+
+D - Ο(n log m)
+
+Answer : B
+Explanation
+The time required to merge two sorted list is Ο(m + n).
+
+Q 7 - Which of the following uses memoization?
+
+A - Greedy approach
+
+B - Divide and conquer approach
+
+C - Dynamic programming approach
+
+D - None of the above!
+
+Answer : C
+Explanation
+Remembering the results of previously calculated solutions is called memoization.
+
+Q 8 - In a min heap
+
+A - minimum values are stored.
+
+B - child nodes have less value than parent nodes.
+
+C - parent nodes have less value than child nodes.
+
+D - maximum value is contained by the root node.
+
+Answer : C
+Explanation
+In a min heap, parent nodes store lesser values than child nodes. The minimum value of the entire heap is stored at root.
+
+Q 9 - The following sorting algorithms maintain two sub-lists, one sorted and one to be sorted −
+
+A - Selection Sort
+
+B - Insertion Sort
+
+C - Merge Sort
+
+D - both A &am; B
+
+Answer : D
+Explanation
+Both selection sort and insertion sort maintains two sublists and then checks unsorted list for next sorted element.
+
+Q 10 - Project scheduling is an example of
+
+A - greedy programming
+
+B - dynamic programming
+
+C - divide and conquer
+
+D - none of the above.
+
+Answer : B
+
+11) How can we describe an array in the best possible way?
+
+The Array shows a hierarchical structure.
+Arrays are immutable.
+Container that stores the elements of similar types
+The Array is not a data structure
+Answer: c
+
+Explanation: The answer is c because array stores the elements in a contiguous block of memory of similar types. Therefore, we can say that array is a container that stores the elements of similar types.
+
+12) Which of the following is the correct way of declaring an array?
+
+int javatpoint[10];
+int javatpoint;
+javatpoint{20};
+array javatpoint[10];
+Answer: a
+
+Explanation: The answer is a because int specifies the type of the array, javatpoint is the name of the array, and 10 is the size of the array enclosed within the square brackets.
+
+13) How can we initialize an array in C language?
+
+int arr[2]=(10, 20)
+int arr(2)={10, 20}
+int arr[2] = {10, 20}
+int arr(2) = (10, 20)
+Answer: c
+
+Explanation: The answer is c because the values assigned to the array must be enclosed within a curly bracket.
+
+14) Which of the following is the advantage of the array data structure?
+
+Elements of mixed data types can be stored.
+Easier to access the elements in an array
+Index of the first element starts from 1.
+Elements of an array cannot be sorted
+Answer: b
+
+Explanation: The answer is b because the elements in an array are stored in a contiguous block of memory, so it is easier to access the elements of an array through indexing.
+
+15) Which of the following highly uses the concept of an array?
+
+Binary Search tree
+Caching
+Spatial locality
+Scheduling of Processes
+Answer: c
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,137 @@
+[
+    {
+        "subject" : "Operating System",
+        "question" : "Which of the following is not an operating system?",
+        "option1" : "Windows",
+        "option2" : "Linux",
+        "option3" : "Oracle",
+        "option4" : "DOS",
+        "answer" : "Oracle"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "What is the maximum length of the filename in DOS?",
+        "option1" : "4",
+        "option2" : "5",
+        "option3" : "8",
+        "option4" : "12",
+        "answer" : "8"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "When was the first operating system developed?",
+        "option1" : "1948",
+        "option2" : "1949",
+        "option3" : "1950",
+        "option4" : "1951",
+        "answer" : "1950"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "When were MS windows operating systems proposed?",
+        "option1" : "1994",
+        "option2" : "1990",
+        "option3" : "1992",
+        "option4" : "1985",
+        "answer" : "1985"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "Which of the following is the extension of Notepad?",
+        "option1" : ".txt",
+        "option2" : ".xls",
+        "option3" : ".ppt",
+        "option4" : ".bmp",
+        "answer" : ".txt"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "What else is a command interpreter called?",
+        "option1" : "prompt",
+        "option2" : "kernel",
+        "option3" : "shell",
+        "option4" : "command",
+        "answer" : "shell"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "What is the full name of FAT?",
+        "option1" : "File attribute table",
+        "option2" : "File allocation table",
+        "option3" : "Font attribute table",
+        "option4" : "Format allocation table",
+        "answer" : "File allocation table"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "BIOS is used?",
+        "option1" : "By operating system",
+        "option2" : "By compiler",
+        "option3" : "By interpreter",
+        "option4" : "By application software",
+        "answer" : "By operating system"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "What is the mean of the Booting in the operating system?",
+        "option1" : "Restarting computer",
+        "option2" : "Install the program",
+        "option3" : "To scan",
+        "option4" : "To turn off",
+        "answer" : "Restarting computer"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "When does page fault occur?",
+        "option1" : "The page is present in memory.",
+        "option2" : "The deadlock occurs.",
+        "option3" : "The page does not present in memory.",
+        "option4" : "The buffering occurs.",
+        "answer" : "The page does not present in memory."
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "Banker's algorithm is used?",
+        "option1" : "To prevent deadlock",
+        "option2" : "To deadlock recovery",
+        "option3" : "To solve the deadlock",
+        "option4" : "None of these",
+        "answer" : "To prevent deadlock"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "When you delete a file in your computer, where does it go?",
+        "option1" : "Recycle bin",
+        "option2" : "Hard disk",
+        "option3" : "Taskbar",
+        "option4" : "None of these",
+        "answer" : "Recycle bin"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "Which is the Linux operating system?",
+        "option1" : "Private operating system",
+        "option2" : "Windows operating system",
+        "option3" : "Open-source operating system",
+        "option4" : "None of these",
+        "answer" : "Open-source operating system"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "What is the full name of the DSM?",
+        "option1" : "Direct system module",
+        "option2" : "Direct system memory",
+        "option3" : "Demoralized system memory",
+        "option4" : "Distributed shared memory",
+        "answer" : "Distributed shared memory"
+    },
+    {
+        "subject" : "Operating System",
+        "question" : "What is the full name of the IDL?",
+        "option1" : "Interface definition language",
+        "option2" : "Interface direct language",
+        "option3" : "Interface data library",
+        "option4" : "None of these",
+        "answer" : "Interface definition language"
+    }
+]

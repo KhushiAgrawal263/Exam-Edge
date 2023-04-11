@@ -1,0 +1,137 @@
+[
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "L = (an bn an | n = 1,2,3)  is an example of a language that is",
+        "option1" : "Context free",
+        "option2" : "Not context free",
+        "option3" : "Both of the above",
+        "option4" : "None of the above",
+        "answer" : "Not context free"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "The set of all strings over the alphabet S = {a, b} (including e) is denoted by",
+        "option1" : "(a + b)*",
+        "option2" : "(a + b)+",
+        "option3" : "a+b+",
+        "option4" : "a*b*",
+        "answer" : "(a + b)*"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "If L1 and L2 are context free language and R a regular set, then which one of the languages below is not necessarily a context free language?",
+        "option1" : "L1 L2",
+        "option2" : "L1  ∩ L2",
+        "option3" : " L1 ∩ R",
+        "option4" : "L1 ∪ L2",
+        "answer" : "L1  ∩ L2"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "Which of the following regular expression identity is true?",
+        "option1" : "r(*) = r*",
+        "option2" : " (r*s*)* = (r + s)*",
+        "option3" : "(r + s)* = r* + s*",
+        "option4" : "r*s* = r* + s*",
+        "answer" : " (r*s*)* = (r + s)*"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "The logic of pumping lemma is a good example of",
+        "option1" : "Pigeon-hole principle",
+        "option2" : "Divide-and-conquer technique",
+        "option3" : "Recursion",
+        "option4" : "Iteration",
+        "answer" : "Pigeon-hole principle"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "Context-free grammar can be recognized by",
+        "option1" : "Finite state automation",
+        "option2" : "2-way linear bounded automata",
+        "option3" : "Both of the above",
+        "option4" : "None of the above",
+        "answer" : "2-way linear bounded automata"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "What is the highest type number which can be applied to the following grammar?",
+        "option1" : " Type 0",
+        "option2" : " Type 1",
+        "option3" : " Type 2",
+        "option4" : " Type 3",
+        "answer" : " Type 2"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "Basic limitation of FSM is that it",
+        "option1" : "Cannot remember arbitrary large amount of information",
+        "option2" : "Sometimes fails to recognize grammars that are regular",
+        "option3" : "Sometimes recognizes grammars are not regular",
+        "option4" : "None of these",
+        "answer" : "Cannot remember arbitrary large amount of information"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "Given A = (0,1) and L = A*. If R = (0n 1n, n > 0) , then language L ∪ R and R are respectively",
+        "option1" : "Regular, regular",
+        "option2" : "Not regular, regular",
+        "option3" : "Regular, not regular",
+        "option4" : "Context free, not regular",
+        "answer" : "Context free, not regular"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "In a context-sensitive grammar, number of grammar symbols on the left hand side of a production can't be greater than the number of",
+        "option1" : "Grammar symbols on the right hand side",
+        "option2" : "Terminals on the right hand side",
+        "option3" : "Non-terminals on the right hand side",
+        "option4" : "All of these",
+        "answer" : "Non-terminals on the right hand side"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "Which of the following denotes Chomskian hiearchy?",
+        "option1" : "REG ? CFL ? CSL ? type0",
+        "option2" : "CFL ? REG ? type0 ? CSL",
+        "option3" : "CSL ? type0 ? REG ? CFL",
+        "option4" : "CSL ? CFL ? REG ? type0",
+        "answer" : "REG ? CFL ? CSL ? type0"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "The intersection of CFL and regular language",
+        "option1" : "Is always regular",
+        "option2" : "Is always context free",
+        "option3" : "Both of the above",
+        "option4" : "None of the above",
+        "answer" : "Is always context free"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "A grammar that produces more than one parse tree for some sentence is called",
+        "option1" : "Ambiguous",
+        "option2" : "Unambiguous",
+        "option3" : "Regular",
+        "option4" : "None of the above",
+        "answer" : "Ambiguous"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "R1 and R2 are regular sets. Which of the following is not true?",
+        "option1" : "R1 n R2 need not be regular",
+        "option2" : "S* – R1 is regular",
+        "option3" : " R1 ? R2 is regular",
+        "option4" : "Is regular",
+        "answer" : "R1 n R2 need not be regular"
+    },
+    {
+        "subject" : "Theory Of Computation",
+        "question" : "The concept of FSA is much used in this part of the compiler",
+        "option1" : "Lexical analysis",
+        "option2" : "Parser",
+        "option3" : "Code generation",
+        "option4" : "Code optimization",
+        "answer" : "Lexical analysis"
+    }
+]

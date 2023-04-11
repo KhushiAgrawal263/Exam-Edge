@@ -1,0 +1,137 @@
+[
+{
+   "subject":"Computer Network",
+   "question":"Which of these is a standard interface for serial data transmission?",
+   "option1":"ASCII",
+   "option2":"RS232C",
+   "option3":"2",
+   "option4":"Centronics",
+   "answer":"RS232C"   
+},
+{
+    "subject":"Computer Network",
+    "question":"Which type of topology is best suited for large businesses which must carefully control and coordinate the operation of distributed branch outlets?",
+    "option1":"Ring",
+    "option2":"Local area",
+    "option3":"Hierarchical",
+    "option4":"Star",
+    "answer":"Star"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"Which of the following transmission directions listed is not a legitimate channel?",
+    "option1":"Simplex",
+    "option2":"Half Duplex",
+    "option3":"Full Duplex",
+    "option4":"Double Duplex",
+    "answer":"Double Duplex"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"Parity bits are used for which of the following purposes?",
+    "option1":"Encryption of data",
+    "option2":"To transmit faster",
+    "option3":"To detect errors",
+    "option4":"To identify the user",
+    "answer":"To detect errors"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"What kind of transmission medium is most appropriate to carry data in a computer network that is exposed to electrical interferences?",
+    "option1":"Unshielded twisted pair",
+    "option2":"Optical fiber",
+    "option3":"Coaxial cable",
+    "option4":"Microwave",
+    "answer":"Optical fiber"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"A collection of hyperlinked documents on the internet forms the ?",
+    "option1":"World Wide Web (WWW)",
+    "option2":"E-mail system",
+    "option3":"Mailing list",
+    "option4":"Hypertext markup language",
+    "answer":"World Wide Web (WWW)"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"The location of a resource on the internet is given by its?",
+    "option1":"Protocol",
+    "option2":"URL",
+    "option3":"E-mail address",
+    "option4":"ICQ",
+    "answer":"URL"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"The term HTTP stands for?",
+    "option1":"Hyper terminal tracing program",
+    "option2":"Hypertext tracing protocol",
+    "option3":"Hypertext transfer protocol",
+    "option4":"Hypertext transfer program",
+    "answer":"Hypertext transfer protocol"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"A proxy server is used as the computer?",
+    "option1":"with external access",
+    "option2":"acting as a backup",
+    "option3":"performing file handling",
+    "option4":"accessing user permissions",
+    "answer":"with external access"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"Which one of the following would breach the integrity of a system?",
+    "option1":"Looking the room to prevent theft",
+    "option2":"Full access rights for all users",
+    "option3":"Fitting the system with an anti-theft device",
+    "option4":"Protecting the device against willful or accidental damage",
+    "answer":"Full access rights for all users"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":" Which software prevents the external access to a system?",
+    "option1":"Firewall",
+    "option2":"Gateway",
+    "option3":"Router",
+    "option4":"Virus checker",
+    "answer":"Firewall"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"Which one of the following is a valid email address?",
+    "option1":"javat@point.com",
+    "option2":"gmail.com",
+    "option3":"tpoint@.com",
+    "option4":"javatpoint@books",
+    "answer":"javat@point.com"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"Which of the following best describes uploading information?",
+    "option1":"Sorting data on a disk drive",
+    "option2":"Sending information to a host computer",
+    "option3":"Receiving information from a host computer",
+    "option4":"Sorting data on a hard drive",
+    "answer":"Sending information to a host computer"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"Which one of the following is the most common internet protocol?",
+    "option1":"HTML",
+    "option2":"NetBEUI",
+    "option3":"TCP/IP",
+    "option4":"IPX/SPX",
+    "answer":"TCP/IP"   
+ },
+ {
+    "subject":"Computer Network",
+    "question":"Software programs that allow you to legally copy files and give them away at no cost are called which of the following?",
+    "option1":"Probe ware",
+    "option2":"Timeshare",
+    "option3":"Shareware",
+    "option4":"Public domain",
+    "answer":"Public domain"   
+ }
+]   

@@ -1,0 +1,17 @@
+[
+  {
+    name: 'John Doe',
+    position: 'Frontend Developer',
+    experience: '2 years',
+  },
+  {
+    name: 'Sara',
+    position: 'UI/UX Designer',
+    experience: '1.5 years',
+  },
+  {
+    name: 'Mike',
+    position: 'Backend Engineer',
+    experience: '4 years',
+  },
+]

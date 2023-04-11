@@ -1,0 +1,108 @@
+[
+    {
+        "subject":"Database Management System",
+        "question":"Which of the following is generally used for performing tasks like creating the structure of the relations, deleting relation?",
+        "option1":"DML(Data Manipulation Language)",
+        "option2":"Query",
+        "option3":"Relational Schema",
+        "option4":"DDL(Data Definition Language)",
+        "answer":"DDL(Data Definition Language)"   
+     },
+     {
+        "subject":"Database Management System",
+        "question":"Which of the following provides the ability to query information from the database and insert tuples into, delete tuples from, and modify tuples in the database?",
+        "option1":"DML(Data Manipulation Language)",
+        "option2":"DDL(Data Definition Language)",
+        "option3":"Query",
+        "option4":"Relational Schema",
+        "answer":"DML(Data Manipulation Language)"   
+     },{
+        "subject":"Database Management System",
+        "question":"Which one of the following given statements possibly contains the error?",
+        "option1":"select * from emp where empid = 10003;",
+        "option2":"select empid from emp where empid = 10006;",
+        "option3":"select empid from emp;",
+        "option4":"select empid where empid = 1009 and Lastname = 'GELLER';",
+        "answer":"select empid where empid = 1009 and Lastname = 'GELLER';"   
+     },{
+        "subject":"Database Management System",
+        "question":"What do you mean by one to many relationships?",
+        "option1":"One class may have many teachers",
+        "option2":"One teacher can have many classes",
+        "option3":"Many classes may have many teachers",
+        "option4":"Many teachers may have many classes",
+        "answer":"One teacher can have many classes"   
+     },{
+        "subject":"Database Management System",
+        "question":"A Database Management System is a type of _________software.",
+        "option1":"It is a type of system software",
+        "option2":"It is a kind of application software",
+        "option3":"It is a kind of general software",
+        "option4":"Both A and C",
+        "answer":"It is a type of system software"   
+     },{
+        "subject":"Database Management System",
+        "question":"The term 'FAT' is stands for_____",
+        "option1":"File Allocation Tree",
+        "option2":"File Allocation Table",
+        "option3":"File Allocation Graph",
+        "option4":"All of the above",
+        "answer":"File Allocation Table"   
+     },{
+        "subject":"Database Management System",
+        "question":"Which of the following can be considered as the maximum size that is supported by FAT?",
+        "option1":"8GB",
+        "option2":"4GB",
+        "option3":"4TB",
+        "option4":"None of the above",
+        "answer":"4GB"   
+     },{
+        "subject":"Database Management System",
+        "question":"The term 'NTFS' refers to which one of the following?",
+        "option1":"New Technology File System",
+        "option2":"New Tree File System",
+        "option3":"New Table type File System",
+        "option4":"Both A and C",
+        "answer":"New Technology File System"   
+     },{
+        "subject":"Database Management System",
+        "question":"Which of the following can be considered as the maximum size that is supported by NTFS?",
+        "option1":"4GB",
+        "option2":"16TB",
+        "option3":"64TB",
+        "option4":"None of the above",
+        "answer":"4GB"   
+     },{
+        "subject":"Database Management System",
+        "question":"",
+        "option1":"",
+        "option2":"",
+        "option3":"",
+        "option4":"None of the above",
+        "answer":""   
+     },{
+        "subject":"Database Management System",
+        "question":"A huge collection of the information or data accumulated form several different sources is known as ________:",
+        "option1":"Data Management",
+        "option2":"Data Mining",
+        "option3":"Data Warehouse",
+        "option4":"None of the above",
+        "answer":"Data Warehouse"   
+     },{
+        "subject":"Database Management System",
+        "question":"Which of the following can be used to extract or filter the data & information from the data warehouse?",
+        "option1":"Data redundancy",
+        "option2":"Data recovery tool",
+        "option3":"Data mining",
+        "option4":"Both B and C",
+        "answer":"Data mining"   
+     },{
+        "subject":"Database Management System",
+        "question":"Which one of the following refers to the copies of the same data (or information) occupying the memory space at multiple places.",
+        "option1":"Data Repository",
+        "option2":"Data Inconsistency",
+        "option3":"Data Mining",
+        "option4":"Data Redundancy",
+        "answer":"Data Redundancy"   
+     }
+]
